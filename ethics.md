@@ -29,7 +29,5 @@ Systematizing, defending, and recommending concepts of right and wrong behavior.
 -- Internet Encyclopedia of Philosophy (https://www.iep.utm.edu/ethics/)
 ```
 
+## A Working Definition for the GD department
 What should “Ethics” mean in design/graphic design? What about “Design Ethics”? What definition makes the concepts most available to us all as faculty?
-
-
-
