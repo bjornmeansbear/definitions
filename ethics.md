@@ -7,7 +7,7 @@ A particular system of principles and rules concerning moral obligations and reg
 ```
 ```
 Definition of ethic
-1. ethics plural in form but singular or plural in construction : the discipline dealing with what is good and bad and with moral duty and obligation
+1. ethics : the discipline dealing with what is good and bad and with moral duty and obligation
 2. a : a set of moral principles : a theory or system of moral values the present-day materialistic ethic an old-fashioned work ethic — often used in plural but singular or plural in construction an elaborate ethicsChristian ethics
   b ethics plural in form but singular or plural in construction : the principles of conduct governing an individual or a group professional ethics
   c : a guiding philosophy
